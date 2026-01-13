@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Type](https://img.shields.io/badge/Type-Individual_Project-blue)
-![Focus](https://img.shields.io/badge/Focus-Machine_Learning_&_XAI-orange)
+![Focus](https://img.shields.io/badge/Focus-Machine_Learning_|_XAI-orange)
 
 ## 📂 Repository Structure
 This repository contains the full engineering workflow for Project 10 of the NMDA Lab:
